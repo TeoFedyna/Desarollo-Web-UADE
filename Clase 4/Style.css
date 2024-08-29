@@ -1,0 +1,47 @@
+body{
+    border-bottom: 1px solid;
+    border-right: 1px solid;
+    border-top: 1px solid;
+    padding: 2px;
+    
+}
+
+.contenedor{
+    margin: 2px;
+}
+
+.headerClass{
+    border: 2px solid;
+
+    padding-bottom: 10px;
+    margin: 2px;
+
+}
+
+.navClass{
+    border: 2px solid;
+    padding-bottom: 5px;
+    margin: 2px;
+}
+
+.mainClass{
+    display: flex;
+    justify-content: space-between;
+    margin: 2px;
+    border: 2px solid;
+    padding: 5px;
+}   
+
+aside{
+    border: 2px solid;
+    padding-bottom: 90px;
+}
+
+.sectionClass{
+    border: 2px solid; 
+}
+
+.footerClass{
+    margin: 2px;
+    border: 2px solid;
+}
