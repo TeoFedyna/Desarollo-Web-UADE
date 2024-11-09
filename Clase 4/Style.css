@@ -3,7 +3,7 @@ body{
     border-right: 1px solid;
     border-top: 1px solid;
     padding: 2px;
-    
+
 }
 
 .contenedor{
@@ -12,10 +12,8 @@ body{
 
 .headerClass{
     border: 2px solid;
-
     padding-bottom: 10px;
     margin: 2px;
-
 }
 
 .navClass{
@@ -30,18 +28,29 @@ body{
     margin: 2px;
     border: 2px solid;
     padding: 5px;
-}   
+}
 
 aside{
     border: 2px solid;
     padding-bottom: 90px;
 }
 
-.sectionClass{
+article{
+    border: 2px solid;
+    margin-bottom: 4px;
+    padding-left: 10px;
+    padding-right: 360px;
+
+}
+
+.sectionnClass{
+    
     border: 2px solid; 
+    padding: 4px;
 }
 
 .footerClass{
     margin: 2px;
     border: 2px solid;
+    padding-bottom: 15px;
 }
